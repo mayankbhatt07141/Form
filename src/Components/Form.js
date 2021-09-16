@@ -100,7 +100,6 @@ function Form() {
               console.log(values.password);
               console.log(values.confirmpassword);
             }
-            console.log(valid);
           }}
         >
           Submit
